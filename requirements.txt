@@ -1,0 +1,6 @@
+flask
+openai
+python-docx
+PyPDF2
+openpyxl
+stripe
