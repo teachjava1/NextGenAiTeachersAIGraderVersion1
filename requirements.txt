@@ -4,3 +4,4 @@ python-docx
 PyPDF2
 openpyxl
 stripe
+gunicorn
